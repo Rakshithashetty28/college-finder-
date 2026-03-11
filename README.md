@@ -28,4 +28,3 @@ User → Web Interface → Node.js Server → College Dataset (JSON) → Display
 - Display college details
 - Simple and user-friendly interface
 
-## 📂 Project Structure
