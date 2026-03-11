@@ -1,0 +1,1256 @@
+[
+    {
+        "id": 1,
+        "name": "IIT Bombay",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitbombay.ac.in"
+    },
+    {
+        "id": 2,
+        "name": "IIT Delhi",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Delhi",
+        "city": "New Delhi",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitdelhi.ac.in"
+    },
+    {
+        "id": 3,
+        "name": "IIT Madras",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitmadras.ac.in"
+    },
+    {
+        "id": 4,
+        "name": "IIT Kanpur",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Uttar Pradesh",
+        "city": "Kanpur",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitkanpur.ac.in"
+    },
+    {
+        "id": 5,
+        "name": "IIT Kharagpur",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "West Bengal",
+        "city": "Kharagpur",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitkharagpur.ac.in"
+    },
+    {
+        "id": 6,
+        "name": "IIT Roorkee",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Uttarakhand",
+        "city": "Roorkee",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitroorkee.ac.in"
+    },
+    {
+        "id": 7,
+        "name": "IIT Guwahati",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Assam",
+        "city": "Guwahati",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitguwahati.ac.in"
+    },
+    {
+        "id": 8,
+        "name": "IIT Hyderabad",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iithyderabad.ac.in"
+    },
+    {
+        "id": 9,
+        "name": "IIT Indore",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Madhya Pradesh",
+        "city": "Indore",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitindore.ac.in"
+    },
+    {
+        "id": 10,
+        "name": "IIT BHU",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Uttar Pradesh",
+        "city": "Varanasi",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitbhu.ac.in"
+    },
+    {
+        "id": 11,
+        "name": "IIT Gandhinagar",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Gujarat",
+        "city": "Gandhinagar",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitgandhinagar.ac.in"
+    },
+    {
+        "id": 12,
+        "name": "IIT Ropar",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Punjab",
+        "city": "Ropar",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitropar.ac.in"
+    },
+    {
+        "id": 13,
+        "name": "IIT Patna",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Bihar",
+        "city": "Patna",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitpatna.ac.in"
+    },
+    {
+        "id": 14,
+        "name": "IIT Bhubaneswar",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Odisha",
+        "city": "Bhubaneswar",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitbhubaneswar.ac.in"
+    },
+    {
+        "id": 15,
+        "name": "IIT Mandi",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Himachal Pradesh",
+        "city": "Mandi",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitmandi.ac.in"
+    },
+    {
+        "id": 16,
+        "name": "IIT Jodhpur",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Rajasthan",
+        "city": "Jodhpur",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitjodhpur.ac.in"
+    },
+    {
+        "id": 17,
+        "name": "IIT Tirupati",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Andhra Pradesh",
+        "city": "Tirupati",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iittirupati.ac.in"
+    },
+    {
+        "id": 18,
+        "name": "IIT Palakkad",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Kerala",
+        "city": "Palakkad",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitpalakkad.ac.in"
+    },
+    {
+        "id": 19,
+        "name": "IIT Dhanbad",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Jharkhand",
+        "city": "Dhanbad",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitdhanbad.ac.in"
+    },
+    {
+        "id": 20,
+        "name": "IIT Bhilai",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Chhattisgarh",
+        "city": "Bhilai",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitbhilai.ac.in"
+    },
+    {
+        "id": 21,
+        "name": "IIT Goa",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Goa",
+        "city": "Ponda",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitgoa.ac.in"
+    },
+    {
+        "id": 22,
+        "name": "IIT Jammu",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Jammu & Kashmir",
+        "city": "Jammu",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitjammu.ac.in"
+    },
+    {
+        "id": 23,
+        "name": "IIT Dharwad",
+        "category": "IIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Karnataka",
+        "city": "Dharwad",
+        "exam": "JEE Advanced / GATE",
+        "fees_per_year": "\u20b92.0 - \u20b92.5 Lakhs",
+        "ranking_nirf_2024": "Top 1-25 (Engineering)",
+        "average_package": "\u20b915 - \u20b925 LPA",
+        "highest_package": "\u20b950+ LPA",
+        "website": "https://www.iitdharwad.ac.in"
+    },
+    {
+        "id": 24,
+        "name": "NIT Trichy",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Tamil Nadu",
+        "city": "Tiruchirappalli",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nittrichy.ac.in"
+    },
+    {
+        "id": 25,
+        "name": "NIT Surathkal",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Karnataka",
+        "city": "Surathkal",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitsurathkal.ac.in"
+    },
+    {
+        "id": 26,
+        "name": "NIT Warangal",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Telangana",
+        "city": "Warangal",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitwarangal.ac.in"
+    },
+    {
+        "id": 27,
+        "name": "NIT Rourkela",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Odisha",
+        "city": "Rourkela",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitrourkela.ac.in"
+    },
+    {
+        "id": 28,
+        "name": "NIT Calicut",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Kerala",
+        "city": "Calicut",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitcalicut.ac.in"
+    },
+    {
+        "id": 29,
+        "name": "NIT Kurukshetra",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Haryana",
+        "city": "Kurukshetra",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitkurukshetra.ac.in"
+    },
+    {
+        "id": 30,
+        "name": "MNIT Jaipur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.mnitjaipur.ac.in"
+    },
+    {
+        "id": 31,
+        "name": "VNIT Nagpur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.vnitnagpur.ac.in"
+    },
+    {
+        "id": 32,
+        "name": "NIT Silchar",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Assam",
+        "city": "Silchar",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitsilchar.ac.in"
+    },
+    {
+        "id": 33,
+        "name": "NIT Durgapur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "West Bengal",
+        "city": "Durgapur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitdurgapur.ac.in"
+    },
+    {
+        "id": 34,
+        "name": "NIT Hamirpur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Himachal Pradesh",
+        "city": "Hamirpur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nithamirpur.ac.in"
+    },
+    {
+        "id": 35,
+        "name": "NIT Jalandhar",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Punjab",
+        "city": "Jalandhar",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitjalandhar.ac.in"
+    },
+    {
+        "id": 36,
+        "name": "NIT Patna",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Bihar",
+        "city": "Patna",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitpatna.ac.in"
+    },
+    {
+        "id": 37,
+        "name": "NIT Raipur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Chhattisgarh",
+        "city": "Raipur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitraipur.ac.in"
+    },
+    {
+        "id": 38,
+        "name": "NIT Srinagar",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Jammu & Kashmir",
+        "city": "Srinagar",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitsrinagar.ac.in"
+    },
+    {
+        "id": 39,
+        "name": "NIT Agartala",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Tripura",
+        "city": "Agartala",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitagartala.ac.in"
+    },
+    {
+        "id": 40,
+        "name": "NIT Meghalaya",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Meghalaya",
+        "city": "Shillong",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitmeghalaya.ac.in"
+    },
+    {
+        "id": 41,
+        "name": "NIT Manipur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Manipur",
+        "city": "Imphal",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitmanipur.ac.in"
+    },
+    {
+        "id": 42,
+        "name": "NIT Mizoram",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Mizoram",
+        "city": "Aizawl",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitmizoram.ac.in"
+    },
+    {
+        "id": 43,
+        "name": "NIT Nagaland",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Nagaland",
+        "city": "Dimapur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitnagaland.ac.in"
+    },
+    {
+        "id": 44,
+        "name": "NIT Arunachal Pradesh",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Arunachal Pradesh",
+        "city": "Yupia",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitarunachalpradesh.ac.in"
+    },
+    {
+        "id": 45,
+        "name": "NIT Sikkim",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Sikkim",
+        "city": "Ravangla",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitsikkim.ac.in"
+    },
+    {
+        "id": 46,
+        "name": "NIT Uttarakhand",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Uttarakhand",
+        "city": "Srinagar",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nituttarakhand.ac.in"
+    },
+    {
+        "id": 47,
+        "name": "NIT Puducherry",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Puducherry",
+        "city": "Karaikal",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitpuducherry.ac.in"
+    },
+    {
+        "id": 48,
+        "name": "NIT Andhra Pradesh",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Andhra Pradesh",
+        "city": "Tadepalligudem",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitandhrapradesh.ac.in"
+    },
+    {
+        "id": 49,
+        "name": "NIT Delhi",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Delhi",
+        "city": "New Delhi",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitdelhi.ac.in"
+    },
+    {
+        "id": 50,
+        "name": "NIT Goa",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Goa",
+        "city": "Ponda",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitgoa.ac.in"
+    },
+    {
+        "id": 51,
+        "name": "NIT Jamshedpur",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Jharkhand",
+        "city": "Jamshedpur",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitjamshedpur.ac.in"
+    },
+    {
+        "id": 52,
+        "name": "NIT Karnataka",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Karnataka",
+        "city": "Surathkal",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nitkarnataka.ac.in"
+    },
+    {
+        "id": 53,
+        "name": "NIT Tamil Nadu",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Tamil Nadu",
+        "city": "Trichy",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nittamilnadu.ac.in"
+    },
+    {
+        "id": 54,
+        "name": "NIT Telangana",
+        "category": "NIT",
+        "courses": [
+            "BTech",
+            "MTech"
+        ],
+        "state": "Telangana",
+        "city": "Warangal",
+        "exam": "JEE Main / GATE",
+        "fees_per_year": "\u20b91.5 - \u20b92.0 Lakhs",
+        "ranking_nirf_2024": "Top 30-150 (Engineering)",
+        "average_package": "\u20b98 - \u20b915 LPA",
+        "highest_package": "\u20b925+ LPA",
+        "website": "https://www.nittelangana.ac.in"
+    },
+    {
+        "id": 55,
+        "name": "IIM Ahmedabad",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimahmedabad.ac.in"
+    },
+    {
+        "id": 56,
+        "name": "IIM Bangalore",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimbangalore.ac.in"
+    },
+    {
+        "id": 57,
+        "name": "IIM Calcutta",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimcalcutta.ac.in"
+    },
+    {
+        "id": 58,
+        "name": "IIM Lucknow",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Uttar Pradesh",
+        "city": "Lucknow",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimlucknow.ac.in"
+    },
+    {
+        "id": 59,
+        "name": "IIM Kozhikode",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Kerala",
+        "city": "Kozhikode",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimkozhikode.ac.in"
+    },
+    {
+        "id": 60,
+        "name": "IIM Indore",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Madhya Pradesh",
+        "city": "Indore",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimindore.ac.in"
+    },
+    {
+        "id": 61,
+        "name": "IIM Shillong",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Meghalaya",
+        "city": "Shillong",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimshillong.ac.in"
+    },
+    {
+        "id": 62,
+        "name": "IIM Rohtak",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Haryana",
+        "city": "Rohtak",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimrohtak.ac.in"
+    },
+    {
+        "id": 63,
+        "name": "IIM Ranchi",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimranchi.ac.in"
+    },
+    {
+        "id": 64,
+        "name": "IIM Raipur",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Chhattisgarh",
+        "city": "Raipur",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimraipur.ac.in"
+    },
+    {
+        "id": 65,
+        "name": "IIM Trichy",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Tamil Nadu",
+        "city": "Tiruchirappalli",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimtrichy.ac.in"
+    },
+    {
+        "id": 66,
+        "name": "IIM Udaipur",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Rajasthan",
+        "city": "Udaipur",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimudaipur.ac.in"
+    },
+    {
+        "id": 67,
+        "name": "IIM Kashipur",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Uttarakhand",
+        "city": "Kashipur",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimkashipur.ac.in"
+    },
+    {
+        "id": 68,
+        "name": "IIM Nagpur",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimnagpur.ac.in"
+    },
+    {
+        "id": 69,
+        "name": "IIM Visakhapatnam",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Andhra Pradesh",
+        "city": "Visakhapatnam",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimvisakhapatnam.ac.in"
+    },
+    {
+        "id": 70,
+        "name": "IIM Bodh Gaya",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Bihar",
+        "city": "Gaya",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimbodhgaya.ac.in"
+    },
+    {
+        "id": 71,
+        "name": "IIM Sambalpur",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Odisha",
+        "city": "Sambalpur",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimsambalpur.ac.in"
+    },
+    {
+        "id": 72,
+        "name": "IIM Sirmaur",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Himachal Pradesh",
+        "city": "Sirmaur",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimsirmaur.ac.in"
+    },
+    {
+        "id": 73,
+        "name": "IIM Jammu",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Jammu & Kashmir",
+        "city": "Jammu",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimjammu.ac.in"
+    },
+    {
+        "id": 74,
+        "name": "IIM Amritsar",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Punjab",
+        "city": "Amritsar",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimamritsar.ac.in"
+    },
+    {
+        "id": 75,
+        "name": "IIM Mumbai",
+        "category": "IIM",
+        "courses": [
+            "MBA"
+        ],
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "exam": "CAT",
+        "fees_total": "\u20b915 - \u20b925 Lakhs",
+        "ranking_nirf_2024": "Top 1-50 (Management)",
+        "average_package": "\u20b912 - \u20b930 LPA",
+        "highest_package": "\u20b940+ LPA",
+        "website": "https://www.iimmumbai.ac.in"
+    }
+]
